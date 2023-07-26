@@ -1,0 +1,3 @@
+test-principal-001 test-principal-001.headless.keytab
+test-principal-002 test-principal-002.headless.keytab
+test-principal-003 test-principal-003.headless.keytab
